@@ -5,7 +5,7 @@ Animated portfolio for Video Editor
 
 [ISMART VENU, Video Editor](file:///C:/projects/Animated-Portfolio-main-videoeditor/Animated-Portfolio-main/index.html) is a portfolio website that utilizes animation reminscent of a title in a feature film, and unique horizontal scrolling. This app is intended to show off the skills and abilities of the featured video editor in a creative way.  
 
-![](assets/images/home_page.jpg)
+
 
 ## Technologies
 
